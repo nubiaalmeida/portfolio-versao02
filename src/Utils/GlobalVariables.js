@@ -134,6 +134,10 @@ export const habilidades = [
                 logo: 'https://cdn.worldvectorlogo.com/logos/visual-studio-code.svg'
             },
             {
+                title: 'VS',
+                logo: 'https://img.icons8.com/color/452/visual-studio.png'
+            },
+            {
                 title: 'Apache',
                 logo: 'https://www.vectorlogo.zone/logos/apache/apache-ar21.svg'
             },

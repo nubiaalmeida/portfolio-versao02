@@ -6,11 +6,11 @@ export const linkIcon = 'M10.59,13.41C11,13.8 11,14.44 10.59,14.83C10.2,15.22 9.
 
 // First page infos
 export var myName = 'Núbia Almeida'
-export var myOccupation = 'Scrum Master'
-export var institution = '@U4crypto'
+export var myOccupation = 'Product Manager'
+export var institution = '@CMTecnologia'
 export var myDetails = 'Olá, seja muito bem vindo(a) por aqui! Me chamo Núbia, sou formada em Sistemas de Informação, já fui Dev e hoje atuo no mercado como Scrum Master. Trabalhar nessa área é muito gratificante, ver as pessoas se desenvolver e trabalhar de uma forma organizada e com propósito me enche de amor. Além da minha paixão na área de liderança, também sou apaixonada por novas tecnologias e programação.'
 export var myImageLink = ""
-export var primaryColor = '#E9967A';
+export var primaryColor = '#AA00FF';
 
 export const navItems = [
     "Sobre",
