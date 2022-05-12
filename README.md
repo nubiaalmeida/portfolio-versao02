@@ -1,10 +1,9 @@
 
-## Conheça meu Portfólio
+## Exemplo de Porfólio
 <br>
 
 ![1617744835488](https://user-images.githubusercontent.com/20421608/143622055-29fe315a-ab14-4d63-8a38-7136600a23fc.gif)
 
-Acesse, para visitá-lo: https://nubiaalmeida.github.io/
 
 ## Pré-requisitos
 
